@@ -1,4 +1,3 @@
-# titanic-data-cleaning project
 # Titanic Data Cleaning & Preparation for Machine Learning
 
 This project demonstrates how to clean and prepare the Titanic dataset using Python tools like Pandas, NumPy, Matplotlib, and Seaborn.
